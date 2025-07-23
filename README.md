@@ -1,6 +1,8 @@
 # test-technique : Task Manager
 
-## ⚙️ Installation & exécution locale
+# Backend
+
+## Installation & exécution locale
 
 ### 1. Se placer dans le dossier `backend/`
 ### 2. Créer un environnement virtuel
@@ -18,3 +20,15 @@ python manage.py runserver
 ## UI Swagger : 
 http://localhost:8000/api/docs/
 
+
+# Frontend
+
+## Installation & exécution locale
+
+### 1. Se placer dans le dossier `frontend/`
+### 2. Installer les dépendances
+npm install
+### 3. Lancer le serveur de développement
+npm run dev
+### 4. Ouvrir le navigateur à l'adresse 
+http://localhost:5173
